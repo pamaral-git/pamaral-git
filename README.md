@@ -11,11 +11,11 @@ Enthusiast of technology, art, finance, psychology, media and philosophy. Shaped
 
 ### Projects
 
-- 💾 **[AI-OS](https://github.com/pamaral-git/ai-os)** ◦ AI Operating System
-- 💌 **[Mentally Here](https://github.com/pamaral-git/mentally-here)** ◦ Self-hosted Mental Health Companion
-- 🤹 **[Arta](https://github.com/pamaral-git/arta)** ◦ Self-hosted Art Curator
-- 🛝 **[Agent Lab](https://github.com/pamaral-git/agent-lab)** ◦ Developer Playground
-- 💹 **[Fusion Research](https://github.com/pamaral-git/fusion-research)** ◦ Interactive Financial Report
+- 💾 **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ AI Operating System
+- 💌 **[Mentally Here](https://pamaral-git.github.io/mentally-here/Index.html)** ◦ Self-hosted Mental Health Companion
+- 🤹 **[Arta](https://pamaral-git.github.io/arta/)** ◦ Self-hosted Art Curator
+- 🛝 **[Agent Lab](https://pamaral-git.github.io/ai-os/)** ◦ Developer Playground
+- 💹 **[Fusion Research](https://pamaral-git.github.io/fusion-research/)** ◦ Interactive Financial Report
 
 In-Development-Stage: Amaral Media Arquive ◦ Open Audio ◦ Study Buddy ◦ Nefilum Web
 
