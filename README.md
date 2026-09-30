@@ -15,8 +15,8 @@ Enthusiast of technology, art, finance, psychology, media and philosophy. Shaped
 - 💌 **[Mentally Here](https://pamaral-git.github.io/mentally-here/Index.html)** ◦ Self-hosted Mental Health Companion
 - 🤹 **[Arta](https://pamaral-git.github.io/arta/)** ◦ Self-hosted Art Curator
 - 💹 **[Fusion Research](https://pamaral-git.github.io/fusion-research/)** ◦ Interactive Financial Report
-
-In-Development-Stage: Amaral Media Arquive ◦ Open Audio ◦ Study Buddy ◦ Nefilum Web
+- ⚗️ **Developing** ◦ Media Arquive ◦ Open Audio ◦ Study Buddy ◦ Nefilum Web
+- 🍴 **Froks** ◦ [Uncensored Discovery](https://heretic-model-explorer-preview.streamlit.app/)
 
 Hackathons: [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ Open AI Build Week (July 13-21) ◦ Nebius x NVIDIA Hackathon (August 26-October 30)
 
