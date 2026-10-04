@@ -52,7 +52,7 @@ Projeto de comunicação digital fundado aos 16 anos e desenvolvido de forma ind
 
 ### Universidade do Minho
 
-**Licenciatura em Filosofia • 2023–2026 • Braga**
+**Licenciatura em Filosofia • 2023-2027 • Braga**
 
 Média atual: **16,03 / 20**
 
@@ -73,7 +73,7 @@ Média final: **17,4 / 20**
 - Prémio de Mérito Académico (2023)
 - Prémio de Mérito Cívico (2023)
 
-## [Projetos pessoais](https://github.com/pedromanuelamaral)
+## [Projetos pessoais](https://github.com/pamaral-git)
 
 ### Tecnologia e Inteligência Artificial
 

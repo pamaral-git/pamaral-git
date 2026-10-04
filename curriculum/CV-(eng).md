@@ -1,4 +1,4 @@
-# Pedro Manuel Amaral • [GitHub](https://github.com/pedromanuelamaral) • [Email](mailto:pedromanuelamaral@gmail.com)
+# Pedro Manuel Amaral • [GitHub](https://github.com/pamaral-git) • [Email](mailto:pedromanuelamaral@gmail.com)
 
 Final-year philosophy undergraduate at the University of Minho. Based in Portugal. I founded a media company at 16. I took a gap year after high school to build it independently.
 
@@ -38,7 +38,7 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 - Communication and events team member.
 - Moderator at symposiums on emotional education and youth development.
 
-## University of Minho (2023-2026)
+## University of Minho (2023-2027)
 
 - Philosophy undergraduate.
 - Current average is 16.03 / 20.
@@ -46,7 +46,7 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 - Activities include College Debating, STEM Thinkathon Judge, and the Nucleus of Philosophy.
 - Awarded `Prémio Caixa + Mundo` 2024, and `Prémio de Merito Academico`, 2025.
 
-## Clinic Sophie Seromenho (2024-2026)
+## Clinic Sophie Seromenho (2024–2025)
 
 - Managing developer of the clinic digital stack.
 - Managing online eccomerce, client support, bookkeeping and analytics.
@@ -103,12 +103,12 @@ High School average of 17.40 / 20 and the university grades below:
 
 ## Project Builds
 
-[`AI Research Hub, Code -`](https://github.com/pedromanuelamaral/AI-Research-Hub) Documenting My Self-Hosted workflows for coding, research and general purposes.
+[`AI Research Hub, Code -`](https://github.com/pamaral-git/AI-Research-Hub) Documenting My Self-Hosted workflows for coding, research and general purposes.
 
-[`Fusion Research, Code -`](https://github.com/pedromanuelamaral/fusion-research) Interactive equity and macro financial research report.
+[`Fusion Research, Code -`](https://github.com/pamaral-git/fusion-research) Interactive equity and macro financial research report.
 
 [`Mentally Here, GitHub Page -`](https://pedromanuelamaral.github.io/mentally-here/Index.html) Personal health companion for your private wellbeing.
 
-[`Arta, Code -`](https://github.com/pedromanuelamaral/arta) Personal art curator built that combines local AI and Personal taste-memory.
+[`Arta, Code -`](https://github.com/pamaral-git/arta) Personal art curator built that combines local AI and Personal taste-memory.
 
-[`Agent Lab, Code -`](https://github.com/pedromanuelamaral/agent-lab) Interactive Learning Playground for AI and Software.
+[`Agent Lab, Code -`](https://github.com/pamaral-git/agent-lab) Interactive Learning Playground for AI and Software.
