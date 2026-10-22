@@ -60,6 +60,7 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 ### NEFilUM (2025-2026)
 
 - Elected President of the Philosophy Students’ Union, representing undergraduate, master’s and doctoral students at the University of Minho.
+- Introduced online voting ammendment, organized the annual Philosophy event, redesigned the [website](https://web.nefilum.workers.dev), and democratized access to educational content through [digital media](https://www.youtube.com/@FilosofiaUMinho).
 
 ## Selected writing and media
 

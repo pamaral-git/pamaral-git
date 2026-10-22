@@ -58,6 +58,7 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 ### NEFilUM (2025-2026)
 
 - Eleito presidente do Núcleo de Estudantes de Filosofia, em representação dos estudantes de licenciatura, mestrado e doutoramento em Filosofia da Universidade do Minho.
+- Proposta de alteração para permitir votação online, organização do evento anual de Filosofia, redesenhou o [site](https://web.nefilum.workers.dev) e democratizou o acesso dos conteúdos educativos através dos [meios digitais](https://www.youtube.com/@FilosofiaUMinho).
 
 ## Trabalhos e intervenções selecionados
 
