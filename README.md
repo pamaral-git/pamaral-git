@@ -7,18 +7,17 @@ Enthusiast of technology, art, finance, psychology, media and philosophy. Shaped
 - 🎓 **Undergraduate Philosophy** - University of Minho, 2023-…
 - 👩‍⚕️ **[Clínica Sophie Seromenho](https://sophieseromenho.pt)** (2024–25) - Technology and Web Developer
 - 🎥 **Video and Podcast Editor** (2025-26) - Audio and Video Post-Production Editing
-- 🦉 **[Núcleo de Estudantes de Filosofia da Universidade do Minho](https://nefilum.weebly.com)** (2025–26) - President
+- 🦉 **[Núcleo de Estudantes de Filosofia da Universidade do Minho](https://web.nefilum.workers.dev)** (2025–26) - President
 
 ### Projects
-
-- 💾 **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ AI Operating System
+- 💾 **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ AI Orchestration Stack
 - 💌 **[Mentally](https://pamaral-git.github.io/mentally/Index.html)** ◦ Self-hosted Personal Companion
 - 🤹 **[Arta](https://pamaral-git.github.io/arta/)** ◦ Self-hosted Art Curator
 - 💹 **[Fusion Research](https://pamaral-git.github.io/fusion-research/)** ◦ Interactive Financial Report
-- 🧑‍💻 **[Nefilum Web](https://web.nefilum.workers.dev)** ◦ Website Dev and Media Creation
-- ⚗️ **Developing** ◦ Tiny AI ◦ Media Arquive ◦ Open Audio ◦ Study Buddy
+- 🦉 **[Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html)** ◦ Website Dev and Media Creation
 - 🍴 **Froks** ◦ [Uncensored Discovery](https://heretic-model-explorer-preview.streamlit.app/)
+- ⚗️ **Developing** ◦ Tiny AI ◦ Media Arquive ◦ Open Audio
 
-Hackathons: [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ Open AI Build Week (July 13-21) ◦ Nebius x NVIDIA Hackathon (August 26-October 30) ◦ Meta Global AI Developer Hackathon (October 26-November 5)
+Hackathons: [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ Open AI Build Week (July 13-21) ◦ Meta Global AI Developer Hackathon (October 26-November 5)
 
 More about me: [Curriculum](https://github.com/pamaral-git/pamaral-git/blob/main/curriculum)
