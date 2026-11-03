@@ -15,9 +15,8 @@ Enthusiast of technology, art, finance, psychology, media and philosophy. Shaped
 - 🤹 **[Arta](https://pamaral-git.github.io/arta/)** ◦ Self-hosted Art Curator
 - 💹 **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Interactive Financial Report
 - 🦉 **[Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html)** ◦ Website Dev and Media Creation
-- 🍴 **Forks** ◦ [Uncensored Discovery](https://heretic-model-explorer-preview.streamlit.app/)
+- 🍴 **Forks** ◦ [Uncensored AI](https://heretic-model-explorer-preview.streamlit.app/)
 - ⚗️ **Developing** ◦ Tiny AI ◦ Media Archive ◦ Open Audio
-
-Hackathons: [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ Open AI Build Week (July 13-21) ◦ Meta Global AI Developer Hackathon (October 26-November 5)
+- 🐿️ **Hackathons** ◦ [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ Open AI Build Week, [July](https://openai.devpost.com) ◦ Meta Global AI Developer Hackathon, [Oct-Nov](https://cerebralvalley.ai/e/meta-ai-developer-hackathon)
 
 More about me: [Curriculum](https://github.com/pamaral-git/pamaral-git/blob/main/curriculum)
