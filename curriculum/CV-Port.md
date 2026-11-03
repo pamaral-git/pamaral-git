@@ -73,8 +73,8 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 
 - **[Arta](https://pamaral-git.github.io/arta/)** ◦ Curadoria artística pessoal.
 - **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ Sistema operativo pessoal de IA, apontamentos e fluxos de auto-hospedagem.
-- **[Fusion Research](https://pamaral-git.github.io/fusion-research/)** ◦ Investigação financeira e modelização de empresas.
-- **[Mentally Here](https://pamaral-git.github.io/mentally-here/Index.html)** ◦ Aplicação privada e offline de apoio e organização pessoal.
+- **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Investigação financeira e modelização de empresas.
+- **[Mentally](https://github.com/pamaral-git/mentally/Index.html)** ◦ Aplicação privada e offline de apoio e organização pessoal.
 - **Forks** ◦ [Uncensored Discovery](https://heretic-model-explorer-preview.streamlit.app/) || **Em desenvolvimento** ◦ Media Arquive ◦ Open Audio ◦ Study Buddy ◦ Nefilum Web
 
 ---
