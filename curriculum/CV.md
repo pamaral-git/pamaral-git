@@ -54,19 +54,19 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 
 ### Clínica Sophie Seromenho (2024–2025)
 
-- Managed the clinic’s website, digital systems, website, e-commerce, client support, bookkeeping and analytics.
+- Managed the clinic’s website, digital systems, e-commerce, client support, bookkeeping and analytics.
 - Proposed and implemented a patient mood and wellbeing check-in pilot, synchronising responses to a database and Google Looker Studio dashboard accessible only to the treating mental health specialist.
 
 ### NEFilUM (2025-2026)
 
 - Elected President of the Philosophy Students’ Union, representing undergraduate, master’s and doctoral students at the University of Minho.
-- Introduced online voting ammendment, organized the annual Philosophy event, redesigned the [website](https://web.nefilum.workers.dev), and democratized access to educational content through [digital media](https://www.youtube.com/@FilosofiaUMinho).
+- Introduced online voting amendment, organized the annual Philosophy event, redesigned the [website](https://web.nefilum.workers.dev), and democratized access to educational content through [digital media](https://www.youtube.com/@FilosofiaUMinho).
 
 ## Selected writing and media
 
-- Applied Ethics, Paper, *Ethics of AI in Warfare*. English. [View document](https://docs.google.com/document/d/1SJpT2ubArFb9MWeMcKDBePfkT342lmjqCyq6tWS4PuQ/edit?usp=sharing)
-- Law, Paper, *Predictive Policing and the U.S. Constitution*. Portuguese. [View document](https://docs.google.com/document/d/1sxUmLLcSSrXtPg-j4rzgWCU6aYMT_IB1KDFhsPZvz74/edit?usp=sharing)
-- Anthropology, Paper, *Violence, The Sacred And The Inhumane*. English. [Read](https://docs.google.com/document/d/15q-khtusF4dW7ljITP-GnG_LKdyyOlCvAUqaOSLYShI/edit?usp=sharing)
+- Applied Ethics, Selected coursework: *Ethics of AI in Warfare*. English. [View document](https://docs.google.com/document/d/1SJpT2ubArFb9MWeMcKDBePfkT342lmjqCyq6tWS4PuQ/edit?usp=sharing)
+- Law, Selected coursework: *Predictive Policing and the U.S. Constitution*. Portuguese. [View document](https://docs.google.com/document/d/1sxUmLLcSSrXtPg-j4rzgWCU6aYMT_IB1KDFhsPZvz74/edit?usp=sharing)
+- Anthropology, Selected coursework: *Violence, The Sacred And The Inhumane*. English. [Read](https://docs.google.com/document/d/15q-khtusF4dW7ljITP-GnG_LKdyyOlCvAUqaOSLYShI/edit?usp=sharing)
 - Cinema & Literature, Essay, *A Infindável Batalha Entre a Chama da Vida e o Fogo Fátuo*. Portuguese. [Read](https://docs.google.com/document/d/1y78yaHJNImRKNyyOkXNEHEDcH7QS7FBvwfijkY-G-bs/edit)
 - Article, Op-Ed, *Navigating through High School*. Portuguese. [Read](https://uniarea.com/um-passo-de-cada-vez-alcancando-objetivos-no-secundario/)
 - Interview, Radio, *Amaral Media: Youth, Culture and Vision*. Portuguese. [Listen](https://www.rtp.pt/play/p6381/e695600/dois-dedos-de-conversa)
@@ -77,7 +77,7 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 - **[Mentally Here](https://pamaral-git.github.io/mentally-here/Index.html)** ◦ Self-hosted companion for mental and physical wellbeing
 - **[Arta](https://pamaral-git.github.io/arta/)** ◦ Self-hosted art curator
 - **[Fusion Research](https://pamaral-git.github.io/fusion-research/)** ◦ Interactive equity research report
-- Forks ◦ [Uncensored Discovery](https://heretic-model-explorer-preview.streamlit.app/) || **Developing** ◦ Media Arquive ◦ Open Audio ◦ Study Buddy ◦ Nefilum Web
+- Forks ◦ [Uncensored Discovery](https://heretic-model-explorer-preview.streamlit.app/) || **Developing** ◦ Media Archive ◦ Open Audio ◦ Study Buddy ◦ Nefilum Web
 
 ---
 

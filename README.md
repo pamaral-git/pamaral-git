@@ -11,12 +11,12 @@ Enthusiast of technology, art, finance, psychology, media and philosophy. Shaped
 
 ### Projects
 - 💾 **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ AI Orchestration Stack
-- 💌 **[Mentally](https://pamaral-git.github.io/mentally/Index.html)** ◦ Self-hosted Personal Companion
+- 💌 **[Mentally Here](https://pamaral-git.github.io/mentally-here/Index.html)** ◦ Self-hosted Personal Companion
 - 🤹 **[Arta](https://pamaral-git.github.io/arta/)** ◦ Self-hosted Art Curator
 - 💹 **[Fusion Research](https://pamaral-git.github.io/fusion-research/)** ◦ Interactive Financial Report
 - 🦉 **[Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html)** ◦ Website Dev and Media Creation
-- 🍴 **Froks** ◦ [Uncensored Discovery](https://heretic-model-explorer-preview.streamlit.app/)
-- ⚗️ **Developing** ◦ Tiny AI ◦ Media Arquive ◦ Open Audio
+- 🍴 **Forks** ◦ [Uncensored Discovery](https://heretic-model-explorer-preview.streamlit.app/)
+- ⚗️ **Developing** ◦ Tiny AI ◦ Media Archive ◦ Open Audio
 
 Hackathons: [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ Open AI Build Week (July 13-21) ◦ Meta Global AI Developer Hackathon (October 26-November 5)
 
