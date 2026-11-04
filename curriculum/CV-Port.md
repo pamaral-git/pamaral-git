@@ -69,13 +69,15 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 - Artigo de Opinião, Navegar pelo Ensino Secundário. Português. [Ler](https://uniarea.com/um-passo-de-cada-vez-alcancando-objetivos-no-secundario/)
 - Entrevista, Rádio, Amaral Media: Juventude, Cultura e Visão. Português. [Ouvir](https://www.rtp.pt/play/p6381/e695600/dois-dedos-de-conversa)
 
-## [Projetos](https://github.com/pamaral-git)
+## [Criações](https://github.com/pamaral-git)
 
-- **[Arta](https://pamaral-git.github.io/arta/)** ◦ Curadoria artística pessoal.
-- **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ Sistema operativo pessoal de IA, apontamentos e fluxos de auto-hospedagem.
-- **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Investigação financeira e modelização de empresas.
-- **[Mentally](https://github.com/pamaral-git/mentally/Index.html)** ◦ Aplicação privada e offline de apoio e organização pessoal.
-- **Forks** ◦ [Uncensored Discovery](https://heretic-model-explorer-preview.streamlit.app/) || **Em desenvolvimento** ◦ Media Arquive ◦ Open Audio ◦ Study Buddy ◦ Nefilum Web
+- **[Arta](https://pamaral-git.github.io/arta/)** ◦ Curadoria artística personalizada.
+- **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ Sistema operativo de IA e Auto-hospedagem.
+- **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Analise financeira e económica de empresas publicas.
+- **[Mentally](https://github.com/pamaral-git/mentally/Index.html)** ◦ Assistente pessoal e privado de Saúde Mental.
+- **[Heretically](https://heretically.streamlit.app/)** ◦ Descobrir Modelos de IA Sem-Censura ◦ Fork
+- **[Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html)** ◦ Desenvolvimento do Website e Média Digital
+
 
 ---
 

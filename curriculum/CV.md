@@ -71,13 +71,15 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 - Article, Op-Ed, *Navigating through High School*. Portuguese. [Read](https://uniarea.com/um-passo-de-cada-vez-alcancando-objetivos-no-secundario/)
 - Interview, Radio, *Amaral Media: Youth, Culture and Vision*. Portuguese. [Listen](https://www.rtp.pt/play/p6381/e695600/dois-dedos-de-conversa)
 
-## Projects
+## Builds
 
-- **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ Personal AI operating system, research notes and self-hosting workflows
-- **[Mentally](https://pamaral-git.github.io/mentally/Index.html)** ◦ Self-hosted companion for mental and physical wellbeing
+- **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ Personal AI System and Stack
+- **[Mentally](https://pamaral-git.github.io/mentally/Index.html)** ◦ Self-hosted Personal companion for mental wellbeing
 - **[Arta](https://pamaral-git.github.io/arta/)** ◦ Self-hosted art curator
 - **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Interactive equity research report
-- Forks ◦ [Uncensored Discovery](https://heretic-model-explorer-preview.streamlit.app/) || **Developing** ◦ Media Archive ◦ Open Audio ◦ Study Buddy ◦ Nefilum Web
+- **[Heretically](https://heretically.streamlit.app/)** ◦ Uncensored Open Sourced Models Discovery ◦ Fork
+- **[Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html)** ◦ Website Development and Digital Media
+
 
 ---
 
