@@ -43,7 +43,7 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 - Membro da equipa de comunicação e eventos.
 - Moderador em simpósios sobre educação emocional e desenvolvimento dos jovens.
 
-### Universidade do Minho (2023-2027)
+### Universidade do Minho (2023-2027, expectado)
 
 - Licenciatura em Filosofia (Conclusão prevista: 2027).
 - Média atual: 16,03 / 20 (histórico académico abaixo).

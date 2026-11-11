@@ -45,7 +45,7 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 - Communication and events team member.
 - Moderator at symposiums on emotional education and youth development.
 
-### University of Minho (2023-2027)
+### University of Minho (2023-2027, expected)
 
 - Philosophy undergraduate (expected graduation: 2027).
 - Current average: 16.03 / 20 (academic record below).

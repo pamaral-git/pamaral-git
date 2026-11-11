@@ -4,7 +4,7 @@ Enthusiast of technology, art, finance, psychology, media and philosophy. Shaped
 ## Timeline
 - 📰 **[Amaral Media](https://www.instagram.com/amaralmediasite/)** (2021–25) - Founder Digital Media Project during high school ◦ [RTP](https://www.rtp.pt/play/p6381/e695600/dois-dedos-de-conversa) ◦ [Gerador](https://gerador.eu/amaral-media-por-um-mundo-melhor-atraves-da-educacao-e-literatura/) ◦ [Uniarea](https://uniarea.com/um-passo-de-cada-vez-alcancando-objetivos-no-secundario/)
 - 📢 **Association for Research & Intervention in Emotional Education** (2023) - Media Team and Event Moderator
-- 🎓 **Undergraduate Philosophy** - University of Minho, 2023-…
+- 🎓 **Undergraduate Philosophy** - University of Minho (2023-2027, expected)
 - 👩‍⚕️ **[Clínica Sophie Seromenho](https://sophieseromenho.pt)** (2024–25) - Technology and Web Developer
 - 🎥 **Video and Podcast Editor** (2025-26) - Audio and Video Post-Production Editing
 - 🦉 **[Philosophy Student Association](https://web.nefilum.workers.dev)** (AY 2025–26) - President
@@ -17,6 +17,6 @@ Enthusiast of technology, art, finance, psychology, media and philosophy. Shaped
 - 🦉 **[Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html)** ◦ Website Dev and Media
 - 🔥 **[Heretically](https://github.com/pamaral-git/heretically)** ◦ Uncensored AI Discovery (fork)
 - ⚗️ **Developing** ◦ Tiny AI ◦ Media Archive ◦ Open Audio
-- 🐿️ **Hackathons** ◦ [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ Open AI Build Week, [July](https://openai.devpost.com) ◦ Meta Global AI Developer Hackathon, [Oct-Nov](https://cerebralvalley.ai/e/meta-ai-developer-hackathon)
+- 🐿️ **Hackathons** ◦ [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ Open AI Build Week ◦ Meta Global AI Developer Hackathon
 
 More about me: [Curriculum](https://github.com/pamaral-git/pamaral-git/blob/main/curriculum)
