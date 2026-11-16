@@ -37,4 +37,4 @@ Final-year philosophy undergraduate at the University of Minho. I founded a digi
 - *Ethics of AI in Warfare* (applied ethics, English) ◦ *Predictive Policing and the U.S. Constitution* (law, Portuguese) ◦ *Violence, The Sacred and The Inhumane* (anthropology, English) ◦ *A Infindável Batalha Entre a Chama da Vida e o Fogo Fátuo* (cinema and literature essay, Portuguese)
 - Radio interview, RTP: [*Amaral Media: Youth, Culture and Vision*](https://www.rtp.pt/play/p6381/e695600/dois-dedos-de-conversa)
 
-[Full curriculum](https://github.com/pamaral-git/pamaral-git/blob/main/curriculum/CV.md)
+[Full curriculum](https://github.com/pamaral-git/pamaral-git/blob/main/curriculum)

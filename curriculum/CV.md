@@ -83,11 +83,11 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 
 ---
 
-### Additional details
+### Additional details: University Record:**
 
-**University academic record:**
+> **Courses remaining:** 2 courses from the 3rd year (2nd semester).
+> **Remaining course load:** 6 hours per week (from Feb. 1 to June 19, 2027), for a total of 180–200 hours.
 
-> Two subjects remain, both in the second semester of the third year.
 
 | Year-Semester | Subject | Score |
 |------|--------|-------|

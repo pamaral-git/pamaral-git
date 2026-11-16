@@ -81,11 +81,10 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 
 ---
 
-### Detalhes adicionais
+### Detalhes adicionais: Histórico Universitário
 
-**Histórico académico universitário:**
-
-> Faltam duas disciplinas, ambas do segundo semestre do terceiro ano, para concluir a licenciatura.
+> **Disciplinas em falta:** 2 cadeiras do 3.º Ano (2.º Semestre).
+> **Carga horaria em falta:** 6 horas por semana (entre 01 fev. a 19 jun. 2027), total de 180–200 horas.
 
 | Ano-Semestre | Cadeira | Nota |
 |------|--------|-------|

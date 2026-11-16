@@ -47,4 +47,4 @@ Final-year philosophy undergraduate at the University of Minho who builds and ru
 - **BA Philosophy**, University of Minho (2023–2027, expected). Average 16.03/20. Prémio de Mérito Académico (2025), Prémio Caixa + Mundo (2024).
 - **Secondary school D. Maria II** (2019–22), economics and humanities, 17.4/20.
 
-[Full curriculum](https://github.com/pamaral-git/pamaral-git/blob/main/curriculum/CV.md)
+[Full curriculum](https://github.com/pamaral-git/pamaral-git/blob/main/curriculum)
