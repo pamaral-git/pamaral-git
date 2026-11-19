@@ -71,7 +71,7 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 
 ## [Criações](https://github.com/pamaral-git)
 
-- **[Arta](https://pamaral-git.github.io/arta/)** ◦ Curadoria artística personalizada.
+- **[Artsy](https://pamaral-git.github.io/artsy/)** ◦ Curadoria artística personalizada.
 - **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ Sistema operativo de IA e Auto-hospedagem.
 - **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Analise financeira e económica de empresas publicas.
 - **[Mentally](https://github.com/pamaral-git/mentally/Index.html)** ◦ Assistente pessoal e privado de Saúde Mental.

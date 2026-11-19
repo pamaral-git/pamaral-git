@@ -888,7 +888,7 @@ PT_HEADINGS = {
 
 # Never translated: names, products, tools, acronyms.
 KEEP_TERMS = [
-    "AI-OS", "Fusion", "Mentally", "Arta", "Heretically", "Nefilum Web", "NEFilUM", "NIIEM",
+    "AI-OS", "Fusion", "Mentally", "Artsy", "Heretically", "Nefilum Web", "NEFilUM", "NIIEM",
     "Amaral Media", "Clínica Sophie Seromenho", "llama.cpp", "llama-server", "Docker", "Podman",
     "Python", "TypeScript", "Rust", "Oh My Pi", "Looker Studio", "MacBook Pro M4",
     "Cerebras x Gemma 4 24Hours", "Cerebras 24Hours", "OpenAI Build Week",

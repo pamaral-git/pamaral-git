@@ -41,7 +41,7 @@ Final-year philosophy undergraduate at the University of Minho who builds and ru
 - [Cerebras x Gemma 4 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) (June 2026) ◦ OpenAI Build Week (July 2026) ◦ Meta Global AI Developer Hackathon (Oct–Nov 2026)
 
 ## Other projects
-[Mentally](https://pamaral-git.github.io/mentally/) (self-hosted personal companion) ◦ [Arta](https://pamaral-git.github.io/arta/) (self-hosted art curator) ◦ [Heretically](https://github.com/pamaral-git/heretically) (open-model discovery, fork) ◦ [Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html) (website development)
+[Mentally](https://pamaral-git.github.io/mentally/) (self-hosted personal companion) ◦ [Artsy](https://pamaral-git.github.io/artsy/) (self-hosted art curator) ◦ [Heretically](https://github.com/pamaral-git/heretically) (open-model discovery, fork) ◦ [Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html) (website development)
 
 ## Education
 - **BA Philosophy**, University of Minho (2023–2027, expected). Average 16.03/20. Prémio de Mérito Académico (2025), Prémio Caixa + Mundo (2024).
