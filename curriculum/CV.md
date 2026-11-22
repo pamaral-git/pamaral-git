@@ -78,7 +78,7 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 - **[Artsy](https://pamaral-git.github.io/artsy/)** ◦ Self-hosted art curator
 - **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Interactive equity research report
 - **[Heretically](https://heretically.streamlit.app/)** ◦ Uncensored Open Sourced Models Discovery ◦ Fork
-- **[Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html)** ◦ Website Development and Digital Media
+- **[Nefilum Web](https://pamaral-git.github.io/nefilum-web/)** ◦ Website Development and Digital Media
 
 
 ---

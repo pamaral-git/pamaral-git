@@ -76,7 +76,7 @@ Núcleo de Investigação e Intervenção na Educação Emocional.
 - **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Analise financeira e económica de empresas publicas.
 - **[Mentally](https://github.com/pamaral-git/mentally/Index.html)** ◦ Assistente pessoal e privado de Saúde Mental.
 - **[Heretically](https://heretically.streamlit.app/)** ◦ Descobrir Modelos de IA Sem-Censura ◦ Fork
-- **[Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html)** ◦ Desenvolvimento do Website e Média Digital
+- **[Nefilum Web](https://pamaral-git.github.io/nefilum-web/)** ◦ Desenvolvimento do Website e Média Digital
 
 
 ---

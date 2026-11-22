@@ -42,7 +42,7 @@ Finalista de Filosofia na Universidade do Minho, construo e opero a minha própr
 - [Cerebras x Gemma 4 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) (junho de 2026) ◦ [OpenAI Build Week](https://openai.devpost.com) (julho de 2026) ◦ [Meta Global AI Developer Hackathon](https://cerebralvalley.ai/e/meta-ai-developer-hackathon) (outubro–novembro de 2026)
 
 ## Outros projetos
-[Mentally](https://pamaral-git.github.io/mentally/) (companheiro pessoal em self-hosting) ◦ [Artsy](https://pamaral-git.github.io/artsy/) (curador de arte em self-hosting) ◦ [Heretically](https://github.com/pamaral-git/heretically) (descoberta de modelos abertos, fork) ◦ [Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html) (desenvolvimento web)
+[Mentally](https://pamaral-git.github.io/mentally/) (companheiro pessoal em self-hosting) ◦ [Artsy](https://pamaral-git.github.io/artsy/) (curador de arte em self-hosting) ◦ [Heretically](https://github.com/pamaral-git/heretically) (descoberta de modelos abertos, fork) ◦ [Nefilum Web](https://github.com/pamaral-git/nefilum-web/) (desenvolvimento web)
 
 ## Formação
 - **Licenciatura em Filosofia**, Universidade do Minho (2023–2027, previsto). Média de 16,03/20. Prémio de Mérito Académico (2025), Prémio Caixa + Mundo (2024).

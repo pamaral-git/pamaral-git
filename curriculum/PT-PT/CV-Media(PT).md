@@ -30,7 +30,7 @@ Finalista de Filosofia na Universidade do Minho. Fundei uma marca de media digit
 ## Projetos selecionados
 - **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ Repositório aberto da minha infraestrutura local de IA (llama.cpp, Docker, harness de agentes); base de uma palestra que dei sobre self-hosting de LLMs edge sem censura.
 - **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Relatório interativo e offline de equity research, com cenários e valorização em tempo real.
-- **[Mentally](https://pamaral-git.github.io/mentally/)** ◦ Companheiro pessoal em self-hosting ◦ **[Artsy](https://pamaral-git.github.io/artsy/)** ◦ Curador de arte em self-hosting ◦ **[Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html)** ◦ Desenvolvimento web e media
+- **[Mentally](https://pamaral-git.github.io/mentally/)** ◦ Companheiro pessoal em self-hosting ◦ **[Artsy](https://pamaral-git.github.io/artsy/)** ◦ Curador de arte em self-hosting ◦ **[Nefilum Web](https://pamaral-git.github.io/nefilum-web/)** ◦ Desenvolvimento web e media
 - **Hackathons:** [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ OpenAI Build Week ◦ Meta Global AI Developer Hackathon
 
 ## Escrita e media selecionadas

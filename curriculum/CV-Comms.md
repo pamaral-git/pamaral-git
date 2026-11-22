@@ -30,7 +30,7 @@ Final-year philosophy undergraduate at the University of Minho. I founded a digi
 ## Selected builds
 - **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ Open repository of my local AI setup (llama.cpp, Docker, agent harness); basis for a talk I gave on self-hosting edge uncensored LLMs, at [Tech Lands in Portugal](https://github.com/pamaral-git/ai-os/blob/main/Docs/Notebook/2026-08-26--Un-censored.md).
 - **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Interactive, offline equity research report with live scenarios and valuation.
-- **[Mentally](https://pamaral-git.github.io/mentally/)** ◦ Self-hosted personal companion ◦ **[Artsy](https://pamaral-git.github.io/artsy/)** ◦ Self-hosted art curator ◦ **[Nefilum Web](https://pamaral-git.github.io/ai-os/Contributions/Nefilum-web/nefilum-web.html)** ◦ Website development and media
+- **[Mentally](https://pamaral-git.github.io/mentally/)** ◦ Self-hosted personal companion ◦ **[Artsy](https://pamaral-git.github.io/artsy/)** ◦ Self-hosted art curator ◦ **[Nefilum Web](https://pamaral-git.github.io/nefilum-web/)** ◦ Website development and media
 - **Hackathons:** [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ OpenAI Build Week ◦ Meta Global AI Developer Hackathon
 
 ## Selected writing and media
