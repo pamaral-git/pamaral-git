@@ -9,14 +9,14 @@ Enthusiast of technology, art, finance, psychology, media and philosophy. Shaped
 - 🎥 **Video and Podcast Editor** (2025-26) - Audio and Video Post-Production Editing
 - 🦉 **[Philosophy Student Association](https://web.nefilum.workers.dev)** (AY 2025–26) - President
 
-### Projects
-- 💾 **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ AI Orchestration Stack
-- 💌 **[Mentally](https://pamaral-git.github.io/mentally/)** ◦ Self-hosted Personal Companion
-- 🤹 **[Artsy](https://pamaral-git.github.io/artsy/)** ◦ Self-hosted Art Curator
-- 💹 **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Interactive Financial Report
+### Builds
+- 💾 **[AI-OS](https://pamaral-git.github.io/ai-os/)** ◦ AI Orchestration System
+- 💌 **[Mentally](https://pamaral-git.github.io/mentally/)** ◦ Private Mental Health Companion
+- 🤹 **[Artsy](https://pamaral-git.github.io/artsy/)** ◦ Literary Arts Curator with Local AI
+- 💹 **[Fusion](https://pamaral-git.github.io/fusion/)** ◦ Interactive Financial Markets Research
 - 🦉 **[Nefilum Web](https://pamaral-git.github.io/nefilum-web/)** ◦ Website Dev and Media
-- 🔥 **[Heretically](https://github.com/pamaral-git/heretically)** ◦ Uncensored AI Discovery (fork)
+- 🔥 **[Heretically](https://github.com/pamaral-git/heretically)** ◦ Discovery Leaderboard for Uncensored AI
 - ⚗️ **Developing** ◦ Tiny AI ◦ Media Archive ◦ Open Audio
-- 🐿️ **Hackathons** ◦ [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Notebook/2026-06-29--Cerebras-Hackathon.html) ◦ Open AI Build Week ◦ Meta Global AI Developer Hackathon
+- 🐿️ **Hackathons** ◦ [Cerebras 24Hours](https://pamaral-git.github.io/ai-os/Docs/Cerebras-Hackathon.html) ◦ Open AI Build Week ◦ Meta Global AI Developer Hackathon
 
 More about me: [Curriculum](https://github.com/pamaral-git/pamaral-git/blob/main/curriculum)
